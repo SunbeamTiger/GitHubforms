@@ -19,7 +19,8 @@ namespace GitHubforms
 
         private void button1_Click(object sender, EventArgs e)
         {
-            // commenting on the feature is really really FUN!
+
+            // commenting on the feature that I built that is really really FUN!
             label1.Text = "Hello Branching!!";
         }
     }
